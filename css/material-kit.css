@@ -2110,7 +2110,7 @@ legend {
   line-height: 1.42857;
 }
 .navbar, .navbar.navbar-default {
-  background-color: #0890d7;
+  background-color: #fff;
   color: #000;
 }
 .navbar2, .navbar.navbar-default {
@@ -2330,7 +2330,7 @@ legend {
   background-color: #3f51b5;
 }
 .navbar.navbar-transparent {
-  background-color: transparent;
+  background-color: solid;
   box-shadow: none;
   color: #000;
   padding-top: 25px;
@@ -3736,7 +3736,7 @@ h2.title {
   }
 
   .navbar.navbar-transparent {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: #fff;
     padding-top: 10px;
     border-radius: 0;
   }
